@@ -2,6 +2,7 @@
 This is a beginner to intermediate level documentation of OpenCV 3.4 use with python.
 
 This is the beginner tutorial of Open-CV, with good documentation and commentary.
+Whole codes are easily explained in commenting format.
 
 
 
