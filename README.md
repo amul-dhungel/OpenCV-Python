@@ -5,6 +5,6 @@ This is the beginner tutorial of Open-CV, with good documentation and commentary
 Whole codes are easily explained in commenting format.
 
 
-[![Watch the video])((https://drive.google.com/file/d/1PrHMciV5A1q9dSmoeRF6Mx631XvjB-o-/view?usp=drive_link)](https://drive.google.com/file/d/1PrHMciV5A1q9dSmoeRF6Mx631XvjB-o-/view?usp=drive_link)
+[![Watch the video](https://drive.google.com/file/d/1PrHMciV5A1q9dSmoeRF6Mx631XvjB-o-/view?usp=drive_link)](https://drive.google.com/file/d/1PrHMciV5A1q9dSmoeRF6Mx631XvjB-o-/view?usp=drive_link)
 
 
